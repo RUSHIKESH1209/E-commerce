@@ -13,7 +13,7 @@ export const currency="$"
 
 const App = () => {
 
-  const [token, setToken] = useState(localStorage.getItem('token') ? localStorage.getItem('token') : "1")
+  const [token, setToken] = useState(localStorage.getItem('token') || "")
 
   useEffect(() => {
     localStorage.setItem('token', token)
