@@ -114,7 +114,7 @@ const Login = () => {
         />
 
         <div className="w-full flex justify-between text-sm mt-[-8px]">
-          <p className="cursor-pointer">Forgot Password?</p>
+         <a href="https://e-commerce-admin-kappa-eight.vercel.app/add">Admin Panel</a>
 
           {currentState === 'login' ? (
             <p onClick={() => setCurrentState('signup')} className="cursor-pointer">
