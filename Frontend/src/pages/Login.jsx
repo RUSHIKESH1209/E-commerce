@@ -114,7 +114,7 @@ const Login = () => {
         />
 
         <div className="w-full flex justify-between text-sm mt-[-8px]">
-         <a href="https://e-commerce-admin-kappa-eight.vercel.app/add">Admin Panel</a>
+         <a href="https://e-commerce-admin-fawn-tau.vercel.app/">Admin Panel</a>
 
           {currentState === 'login' ? (
             <p onClick={() => setCurrentState('signup')} className="cursor-pointer">
