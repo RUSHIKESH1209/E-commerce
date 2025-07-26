@@ -1,6 +1,6 @@
 # 🛍️ FOREVER – Full-Stack Fashion eCommerce Platform
 
-![FOREVER Preview](<img width="658" height="791" alt="image" src="https://github.com/user-attachments/assets/7ee57957-0bc8-4eaf-aa0e-bb1e8bc22830"/>)
+![FOREVER Preview](https://github.com/user-attachments/assets/7ee57957-0bc8-4eaf-aa0e-bb1e8bc22830)
 
 **FOREVER** is a modern and fully functional fashion eCommerce web application built with the **MERN stack** (MongoDB, Express, React, Node.js). It supports everything from product browsing and cart management to admin control, payment integration, and order handling — all with a clean, responsive UI.
 
